@@ -8,4 +8,4 @@ The application source code lives in a private repository. This repository exist
 
 See the [Releases](https://github.com/dacharm7/GajPro-releases/releases) page for MSI, Setup EXE, and (when available) Linux AppImage / .deb packages.
 
-Site: [dacharm.info/apps/gajpro](https://dacharm.co.uk/apps/gajpro)
+Site: [dacharm.co.uk/apps/gajpro](https://dacharm.co.uk/apps/gajpro)
